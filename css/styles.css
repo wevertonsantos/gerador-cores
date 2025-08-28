@@ -19,7 +19,17 @@
     justify-content: center;
 }
 
+#titulo{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
 #hexadecimal{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #fff;
     font-weight: 200;
     margin-bottom: 15px;
     text-transform: uppercase;
