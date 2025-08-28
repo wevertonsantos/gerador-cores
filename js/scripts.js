@@ -26,4 +26,3 @@ const alterandoHexadecimal = () => {
 }
 
 alterandoHexadecimal()
-gerandoLetrasAleatorias()
